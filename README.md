@@ -21,6 +21,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kushalvk&show_icons=true&locale=en" alt="kushalvk" /></p>
 
-<p><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=kushalvk&](https://github-readme-stats.vercel.app/api/top-langs/?username=kushalvk&layout=compact&theme=dark)" alt="kushalvk" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kushalvk&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=kushalvk&](https://visitcount.itsvg.in/api?id=kushalvk&icon=5&color=1)" alt="kushalvk" /></p>
+[![Profile view](https://visitcount.itsvg.in/api?id=kushalvk&icon=5&color=1)](https://visitcount.itsvg.in)
