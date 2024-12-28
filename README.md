@@ -62,4 +62,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kushalvk&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Profile view](https://visitcount.itsvg.in/api?id=kushalvk&icon=5&color=1)](https://visitcount.itsvg.in)
+[![Profile views](https://komarev.com/ghpvc/?username=kushalvk&color=blue)](https://github.com/kushalvk)
