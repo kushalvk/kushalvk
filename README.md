@@ -68,23 +68,21 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 </p>
 
-<p align="center">
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 20px;">
   <img 
-    align="left" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushalvk&layout=compact&theme=tokyonight&title_color=00ffff&text_color=ffffff&bg_color=000000&hide_border=true&langs_count=8" 
     alt="Top Languages" 
     height="180px"
-    style="margin-bottom: 15px;"
   />
 
-  <!-- <span style="display:inline-block; width: 40px;"></span> -->
-
   <img 
-    align="left" 
     src="https://github-readme-stats.vercel.app/api?username=kushalvk&show_icons=true&theme=tokyonight&title_color=00ffff&text_color=ffffff&icon_color=00ffff&bg_color=000000&hide_border=true" 
     alt="GitHub Stats" 
     height="180px"
   />
-</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kushalvk&label=Profile%20views&color=0e75b6&style=flat" alt="kushalvk" /> </p>
+  <img 
+    src="https://komarev.com/ghpvc/?username=kushalvk&label=Profile%20views&color=0e75b6&style=flat" 
+    alt="Profile Views" 
+  />
+</div>
