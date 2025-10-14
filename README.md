@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kushal Vaghela</h1>
 <h3 align="center">I am a Student, Developer, and Lifelong Learner.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kushalvk&label=Profile%20views&color=0e75b6&style=flat" alt="kushalvk" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kushalvk" alt="kushalvk" /></a> </p>
 
 - 🌱 I’m currently learning **Data Structures and Algorithms (DSA)**
@@ -89,4 +87,4 @@
   />
 </p>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kushalvk&label=Profile%20views&color=0e75b6&style=flat" alt="kushalvk" /> </p>
