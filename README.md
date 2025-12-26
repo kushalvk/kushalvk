@@ -12,7 +12,11 @@
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kushalvk&show_icons=true&theme=tokyonight&hide_border=true&title_color=00ffff&text_color=ffffff&icon_color=00ffff&bg_color=000000" alt="Kushal's GitHub Stats" />
 
 <!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=kushalvk&theme=tokyonight&hide_border=true&background=000000&stroke=00FFFF&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&dummy=1" alt="Kushal's Streak Stats" />
+<img 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=kushalvk&theme=tokyonight&hide_border=true&background=000000&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF"
+  alt="GitHub Streak"
+  height="180"
+/>
 
 <!-- Top Languages -->
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kushalvk&layout=compact&theme=tokyonight&hide_border=true&title_color=00ffff&text_color=ffffff&bg_color=000000" alt="Top Languages" />
