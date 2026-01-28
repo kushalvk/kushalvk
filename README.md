@@ -18,9 +18,6 @@
 
 <br />
 
-<!-- Top Languages -->
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kushalvk&layout=compact&theme=tokyonight&hide_border=true&title_color=00ffff&text_color=ffffff&bg_color=000000" alt="Top Languages" />
-
 <br/>
 
 ### 🌱 Currently Learning
@@ -95,7 +92,6 @@ All my projects are available at [portfolio-kushal-03.vercel.app](https://portfo
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
 
 </p>
