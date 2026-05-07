@@ -2,11 +2,11 @@
 
 # Hi 👋, I'm Kushal Vaghela
 
-### A passionate Student, Full-Stack Developer, and Lifelong Learner
+### A passionate Student, and Lifelong Learner
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Learning+DSA+%F0%9F%92%BB;Building+cool+projects+%F0%9F%9A%80" alt="Typing SVG" />
+<!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Learning+DSA+%F0%9F%92%BB;Building+cool+projects+%F0%9F%9A%80" alt="Typing SVG" /> -->
 
-<br/>
+<!-- <br/> -->
 
 <!-- GitHub Stats -->
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kushalvk&show_icons=true&theme=tokyonight&hide_border=true&title_color=00ffff&text_color=ffffff&icon_color=00ffff&bg_color=000000" alt="Kushal's GitHub Stats" />
@@ -19,9 +19,6 @@
 <br />
 
 <br/>
-
-### 🌱 Currently Learning
-**Data Structures and Algorithms (DSA)**
 
 ### 👨‍💻 Portfolio
 All my projects are available at [portfolio-kushal-03.vercel.app](https://portfolio-kushal-03.vercel.app/)
