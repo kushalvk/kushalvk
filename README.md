@@ -65,8 +65,9 @@ Built and maintained full-stack MERN applications for client projects — respon
 - **Portfolio:** [portfolio-kushal-03.vercel.app](https://portfolio-kushal-03.vercel.app/)
 - **Twitter/X:** [@kushalvaghela_](https://twitter.com/kushalvaghela_)
 
+
 <div align="center">
-![Profile Views](https://komarev.com/ghpvc/?username=kushalvk&label=Profile%20Views&color=blueviolet&style=flat-square)
+  <img src="https://komarev.com/ghpvc/?username=kushalvk&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
 </div>
 
 <!-- ============================================================
