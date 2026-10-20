@@ -67,7 +67,7 @@ Built and maintained full-stack MERN applications for client projects — respon
 
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kushalvk&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=kushalvk&label=Profile%20Views&color=blueviolet&style=flat-square&v=3" alt="Profile Views" />
 </div>
 
 <!-- ============================================================
