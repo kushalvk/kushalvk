@@ -66,7 +66,7 @@ Built and maintained full-stack MERN applications for client projects — respon
 - **Twitter/X:** [@kushalvaghela_](https://twitter.com/kushalvaghela_)
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=kushalvk&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+![Profile Views](https://komarev.com/ghpvc/?username=kushalvk&label=Profile%20Views&color=blueviolet&style=flat-square)
 </div>
 
 <!-- ============================================================
