@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f0c29,50:302b63,100:24243e&text=Kushal%20Vaghela&fontColor=00ffff&fontSize=60&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI-Assisted%20Development&descAlignY=58&descSize=20&animation=fadeIn" alt="Banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f0c29,50:302b63,100:24243e&text=Kushal%20Vaghela&fontColor=00ffff&fontSize=60&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20%7C%20AI-Assisted%20Development&descAlignY=58&descSize=20&animation=fadeIn" alt="Banner" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Building+production-ready+apps;React+%7C+Node.js+%7C+MongoDB+%7C+PostgreSQL;Exploring+Agentic+AI+%26+LLM+workflows;M.Sc.+IT+%40+CHARUSAT+%E2%80%94+Graduating+2027" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=720&lines=Building+production-ready+MERN+apps;React+%7C+Node.js+%7C+MongoDB+%7C+PostgreSQL;Exploring+Agentic+AI+%26+LLM+workflows;M.Sc.+IT+%40+CHARUSAT+%E2%80%94+Graduating+2027" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -12,24 +12,29 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kushal-vaghela)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kushalvaghela2003@gmail.com)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/kushalvaghela_)
+[![Followers](https://img.shields.io/github/followers/kushalvk?style=for-the-badge&logo=github&logoColor=00ffff&label=Followers&labelColor=000000&color=00ffff)](https://github.com/kushalvk?tab=followers)
 
 </div>
+
+---
+
+## 👨‍💻 About Me
+
+> Full-stack developer who builds **real-world, production-ready products** instead of tutorial clones, with a growing focus on **AI-assisted development**.
+
+- 🎓 Final-year **M.Sc. IT** at **CMPICA, CHARUSAT** (CGPA: **8.19**), graduating 2027
+- 💼 6-month **Full-Stack Intern** at Durvasa Infotech
+- ⚡ Deepening my MERN stack with **TypeScript, Next.js, PostgreSQL**
+- 🤖 Exploring **agentic AI, RAG, and LLM-assisted development** workflows
+- 📍 Based in Gujarat, India
 
 ---
 
 ## 🧊 My 3D Contribution Skyline
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%"/>
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution skyline" width="100%"/>
 </div>
-
----
-
-## 🎯 Currently
-
-- 🎓 Wrapping up M.Sc. IT at **CMPICA, CHARUSAT** (CGPA: 8.19), graduating 2027
-- ⚡ Deepening my MERN stack with **TypeScript, Next.js, PostgreSQL**
-- 🤖 Exploring **agentic AI, RAG, and LLM-assisted development** workflows
 
 ---
 
@@ -90,12 +95,22 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[VeriNest](https://github.com/kushalvk/REPO_NAME)** | Digital tenant verification platform | MERN |
-| **[BidAthlete](https://github.com/kushalvk/REPO_NAME)** | IPL-style real-time player auction platform | MERN, Socket.IO |
-| **[StockPulse](https://github.com/kushalvk/REPO_NAME)** | Real-time NSE/BSE signal engine | Node.js, React |
-| **[Ticket Booking Engine](https://github.com/kushalvk/REPO_NAME)** | BookMyShow-style flash-sale booking with seat locking | MERN, Redis |
+| **[🏠 VeriNest](https://github.com/kushalvk/REPO_NAME)** | Digital tenant verification platform | MERN |
+| **[🏏 BidAthlete](https://github.com/kushalvk/REPO_NAME)** | IPL-style real-time player auction platform | MERN, Socket.IO |
+| **[📈 StockPulse](https://github.com/kushalvk/REPO_NAME)** | Real-time NSE/BSE signal engine | Node.js, React |
+| **[🎟️ Ticket Booking Engine](https://github.com/kushalvk/REPO_NAME)** | BookMyShow-style flash-sale booking with seat locking | MERN, Redis |
 
-> All major projects are open-source with clean documentation. See the pinned repos below.
+> All major projects are open-source with clean documentation. See the pinned repos on my profile.
+
+<!-- Optional: swap the table above for pin cards once you have the repo slugs
+<div align="center">
+<a href="https://github.com/kushalvk/REPO_NAME"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=kushalvk&repo=REPO_NAME&theme=tokyonight&hide_border=true&title_color=00ffff&bg_color=000000" alt="VeriNest"/></a>
+<a href="https://github.com/kushalvk/REPO_NAME"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=kushalvk&repo=REPO_NAME&theme=tokyonight&hide_border=true&title_color=00ffff&bg_color=000000" alt="BidAthlete"/></a>
+<br/>
+<a href="https://github.com/kushalvk/REPO_NAME"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=kushalvk&repo=REPO_NAME&theme=tokyonight&hide_border=true&title_color=00ffff&bg_color=000000" alt="StockPulse"/></a>
+<a href="https://github.com/kushalvk/REPO_NAME"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=kushalvk&repo=REPO_NAME&theme=tokyonight&hide_border=true&title_color=00ffff&bg_color=000000" alt="Ticket Booking Engine"/></a>
+</div>
+-->
 
 ---
 
@@ -114,26 +129,36 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kushalvk&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&title_color=00ffff&text_color=ffffff&icon_color=00ffff&bg_color=000000" alt="Total commits and GitHub stats" height="165"/>
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kushalvk&layout=compact&theme=tokyonight&hide_border=true&title_color=00ffff&text_color=ffffff&bg_color=000000" alt="Top Languages" height="165"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kushalvk&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&title_color=00ffff&text_color=ffffff&icon_color=00ffff&bg_color=000000" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kushalvk&layout=compact&theme=tokyonight&hide_border=true&title_color=00ffff&text_color=ffffff&bg_color=000000" alt="Top Languages" height="170"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=kushalvk&theme=tokyonight&hide_border=true&background=000000&stroke=00FFFF&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&currStreakNum=00FFFF&sideNums=00FFFF&sideLabels=FFFFFF&dates=9198A1" alt="Current streak and longest streak" width="95%"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=kushalvk&theme=tokyonight&hide_border=true&background=000000&stroke=00FFFF&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&currStreakNum=00FFFF&sideNums=00FFFF&sideLabels=FFFFFF&dates=9198A1" alt="Streak Stats" height="170"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kushalvk&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&area_color=00ffff&hide_border=true&title_color=00ffff&custom_title=Contribution%20Activity" alt="Contribution Activity Graph" width="100%"/>
 
 </div>
 
 ---
 
-## 📫 Let's Connect
+## 📫 Let's Build Something Together
 
-- **Email:** kushalvaghela2003@gmail.com
-- **LinkedIn:** [kushal-vaghela](https://www.linkedin.com/in/kushal-vaghela)
-- **Portfolio:** [portfolio-kushal-03.vercel.app](https://portfolio-kushal-03.vercel.app/)
-- **X:** [@kushalvaghela_](https://twitter.com/kushalvaghela_)
+I'm open to **internships, full-time roles, and freelance projects**.
+
+- 📧 **Email:** kushalvaghela2003@gmail.com
+- 💼 **LinkedIn:** [kushal-vaghela](https://www.linkedin.com/in/kushal-vaghela)
+- 🌐 **Portfolio:** [portfolio-kushal-03.vercel.app](https://portfolio-kushal-03.vercel.app/)
+- 🐦 **X:** [@kushalvaghela_](https://twitter.com/kushalvaghela_)
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kushalvk&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
-  <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:24243e,50:302b63,100:0f0c29&section=footer" alt="Footer" width="100%"/>
+
+<img src="https://hits.sh/github.com/kushalvk.svg?style=for-the-badge&label=Profile%20Views&color=7c3aed&labelColor=000000" alt="Profile Views"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:24243e,50:302b63,100:0f0c29&section=footer" alt="Footer" width="100%"/>
+
 </div>
