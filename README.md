@@ -67,7 +67,8 @@ Built and maintained full-stack MERN applications for client projects — respon
 
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kushalvk&label=Profile%20Views&color=blueviolet&style=flat-square&v=5" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Profile%20Views%20(till%20Oct%202026)-2052-7c3aed?style=for-the-badge&labelColor=000000" alt="Lifetime views"/>
+  <img src="https://hits.sh/github.com/kushalvk.svg?style=for-the-badge&label=New%20Views&color=00ffff&labelColor=000000" alt="New views"/>
 </div>
 
 <!-- ============================================================
