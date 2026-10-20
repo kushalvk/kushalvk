@@ -33,7 +33,7 @@
 ## 🧊 My 3D Contribution Skyline
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution skyline" width="100%"/>
+  <img src="https://raw.githubusercontent.com/kushalvk/kushalvk/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution skyline" width="100%"/>
 </div>
 
 ---
@@ -155,7 +155,7 @@ I'm open to **internships, full-time roles, and freelance projects**.
 
 <div align="center">
 
-<img src="https://hits.sh/github.com/kushalvk.svg?style=for-the-badge&label=Profile%20Views&color=7c3aed&labelColor=000000" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=kushalvk&label=Profile%20Views&color=7c3aed&style=for-the-badge" alt="Profile Views"/>
 
 <br/><br/>
 
