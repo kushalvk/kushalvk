@@ -66,9 +66,7 @@ Built and maintained full-stack MERN applications for client projects — respon
 - **Twitter/X:** [@kushalvaghela_](https://twitter.com/kushalvaghela_)
 
 
-<div align="center">
-  <img src="https://hits.sh/github.com/kushalvk.svg?style=for-the-badge&label=Profile%20Views&color=7c3aed&labelColor=000000" alt="Profile Views"/>
-</div>
+<img src="https://img.shields.io/badge/Profile%20Views-2000%2B-7c3aed?style=for-the-badge&labelColor=000000" alt="Profile Views"/>
 
 <!-- ============================================================
 CHANGELOG
